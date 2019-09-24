@@ -1,0 +1,18 @@
+{
+  "name": "not_trending",
+  "version": "1.0",
+  "description": "Hides Twitter's 'Trend's For You' Pane.",
+  "page_action": {
+    "default_icon": {
+      "128": "images/logo128.png"
+    }
+  },
+  "content_scripts": [{
+    "css": ["css.css"],
+    "matches": ["https://twitter.com/*"]
+  }],
+  "icons": {
+    "128": "images/logo128.png"
+  },
+  "manifest_version": 2
+}
