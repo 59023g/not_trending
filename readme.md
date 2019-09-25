@@ -1,7 +1,7 @@
 
-![alt text](https://github.com/59023g/not_trending/blob/master/images/nazar-amulet.png "Nazar Amulet")
+![alt text](https://github.com/59023g/not_trending/blob/master/images/nazar-amulet.png "Nazar Amulet"  width="200")
 ## not_trending
-Because Twitter's trending is not relevant to me. CSS only. Does not require JavaScript. Does not phone home. The nazar amulet is meant to protect against the [evil eye](https://en.wikipedia.org/wiki/Evil_eye).
+Protect Because Twitter's trending is not relevant to me. CSS only. Does not require JavaScript. Does not phone home. The nazar amulet is meant to protect against the [evil eye](https://en.wikipedia.org/wiki/Evil_eye).
 
 ### To Install Without Going Through Chrome Store
 1. Go to brave://extensions or chrome://extensions
